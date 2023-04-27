@@ -3,7 +3,7 @@
 
 ## Links are here, Check from here:
 - [Project Report] (https://drive.google.com/file/d/19MloXFDRTzW2QLOIB5Dc2mSMLVp4Nc3-/view?usp=sharing)
-- [![Colab]](https://colab.research.google.com/drive/1ck4WTvc7tYymQtP1qXW1wU-imCARjPl-?usp=sharing)
+- [![Colab]](https://colab.research.google.com/drive/1ck4WTvc7tYymQtP1qXW1wU-imCARjPl-?usp=sharing) (https://colab.research.google.com/drive/1ck4WTvc7tYymQtP1qXW1wU-imCARjPl-?usp=sharing)
 
 #
 
